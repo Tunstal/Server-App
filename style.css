@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background: #fafafa;
+}
+.server-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  background: #fff;
+}
+button {
+  margin-right: 10px;
+  padding: 5px 10px;
+}
+#logs {
+  background: #000;
+  color: #0f0;
+  padding: 10px;
+  height: 300px;
+  overflow-y: auto;
+  font-size: 0.9em;
+  border-radius: 6px;
+}

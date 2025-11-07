@@ -1,0 +1,16 @@
+[
+    {
+        "id": "python-http",
+        "name": "Python HTTP Server",
+        "command": "python",
+        "args": ["-m", "http.server", "8000"],
+        "cwd": "."
+    },
+    {
+        "id": "node-dev",
+        "name": "Node Dev Server",
+        "command": "node",
+        "args": ["server.js"],
+        "cwd": "."
+    }
+]
